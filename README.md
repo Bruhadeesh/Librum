@@ -13,7 +13,7 @@ An alpha release will be available soon, bringing the servers online and making 
 
 # Preview
 
-The login and starting page of Librum
+The login and starting page of Librum.
 
 ![login_screen](https://user-images.githubusercontent.com/69865187/218166838-c2cad42a-d1dd-4a2a-a110-411368f7ff65.png)
 
@@ -27,7 +27,7 @@ Feature 1 - A simple and modern interface that removes any distractions and clut
 
 <br>
 
-Feature 2 - Customize Librum to make it personal to you
+Feature 2 - Customize Librum to make it personal to you.
 
 ![appearance_settings](https://user-images.githubusercontent.com/69865187/218166919-162da3ed-e5da-4db6-9c12-e9913c374c11.png)
 
